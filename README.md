@@ -31,7 +31,7 @@ The Fourier Transform Mixer is a desktop application designed to demonstrate the
 - [Aya salah](https://github.com/AyaSalahrekaby)
 - [Habiba Salama](https://github.com/HabibaSroor)
 - [Luna Eyad](https://github.com/LunaEyad)
-- [Nouran Khattab](https://github.com/nouran-19)
+- [Nouran Khatab](https://github.com/nouran-19)
 
 ## Acknowledgments:
 This project was supervised by Dr. Tamer Basha and Eng. Abdullah Darwish, who provided invaluable guidance throughout its development as a part of the Digital Signal Processing course (Spring 2024) at Cairo University Faculty of Engineering
